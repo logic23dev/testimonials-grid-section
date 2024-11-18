@@ -3,8 +3,8 @@
 This is a solution to the [Testimonials grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) challenge on Frontend Mentor.
 
 <h3 align='center'>
-<a href="">Live</a>
-| <a href="">Solution</a>
+<a href="https://logic23dev.github.io/testimonials-grid-section/">Live</a>
+| <a href="https://www.frontendmentor.io/solutions/testimonials-grid-section-U20cgnH3dB">Solution</a>
 | <a href="https://www.frontendmentor.io/profile/logic23dev">Profile</a>
 </h3>
 
